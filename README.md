@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evilfantasyy
 - 👀 I’m interested in ... games!
-- 🌱 I’m currently learning ... nothing!
+- 🌱 I’m currently learning ... Web-Development!
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
 
